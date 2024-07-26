@@ -1,0 +1,14 @@
+.background {
+    /* background-image: url(../../icons/back.png) ; */
+    background-size: cover;
+    color: black;
+    height: 100vh;
+    margin: auto;
+    display: flex;
+justify-content: center;
+
+}
+.title {
+    font-size: 30px;
+    color: white;
+}

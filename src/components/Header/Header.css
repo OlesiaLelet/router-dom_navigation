@@ -1,0 +1,29 @@
+ul {
+    list-style: none;
+
+}
+.container {
+    margin-bottom: 10px;
+}
+.container__list {
+   /* background-color: rgb(159, 226, 255); */
+   margin: 0 auto;
+   padding: 10px 30px;
+   display: flex;
+   justify-content: end;
+   gap: 16px;
+
+}
+.list__link {
+    background-color: #243447;
+    padding: 5px;
+    border: 4px;
+    color: white;
+} 
+a.active {
+    background-color:#71b7ed;
+    padding: 5px;
+    border: 4px;
+    border-radius: 2px;
+} 
+
