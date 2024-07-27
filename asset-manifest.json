@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/router-dom_navigation/static/css/main.6424ccba.css",
-    "main.js": "/router-dom_navigation/static/js/main.f54416db.js",
+    "main.js": "/router-dom_navigation/static/js/main.a6400ce0.js",
     "static/media/back.png": "/router-dom_navigation/static/media/back.fd42e6c46e4dda596265.png",
     "static/media/p3.jpg": "/router-dom_navigation/static/media/p3.3fbbaabbbd2207b4aed3.jpg",
     "static/media/p6.jpg": "/router-dom_navigation/static/media/p6.9116092d47695bd6fd1c.jpg",
@@ -13,10 +13,10 @@
     "static/media/p2.jpg": "/router-dom_navigation/static/media/p2.ce86ea87b186882a1e1c.jpg",
     "index.html": "/router-dom_navigation/index.html",
     "main.6424ccba.css.map": "/router-dom_navigation/static/css/main.6424ccba.css.map",
-    "main.f54416db.js.map": "/router-dom_navigation/static/js/main.f54416db.js.map"
+    "main.a6400ce0.js.map": "/router-dom_navigation/static/js/main.a6400ce0.js.map"
   },
   "entrypoints": [
     "static/css/main.6424ccba.css",
-    "static/js/main.f54416db.js"
+    "static/js/main.a6400ce0.js"
   ]
 }
