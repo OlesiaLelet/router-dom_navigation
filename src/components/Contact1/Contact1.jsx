@@ -1,5 +1,5 @@
 import styles from "./Contact1.module.css";
-import {Link, Outlet, useSearchParams} from 'react-router-dom';
+import {Link, Outlet, useParams} from 'react-router-dom';
 import {elements} from '../../App.js';
 import { useState } from "react";
 
@@ -11,13 +11,13 @@ import { useState } from "react";
 
 const Contact = ({firstName, lastName, phone, gender, }) => {
     const [isMore, setIsMore] = useState(false);
-    const [searchParams, setSearchParams] = useSearchParams();
+    const {id}= useParams();
 
  
 
   const handlerClick = ( () => {
     setIsMore(!isMore);
-
+    console.log(id);
   })
 
     return <div className={styles.contact} >

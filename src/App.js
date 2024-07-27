@@ -12,7 +12,6 @@ import Header from './components/Header/Header.jsx';
 import More from './components/More/More.jsx';
 import  ProtectedRoutes from './utilits/ProtectedRoutes.jsx';
 import './App.css';
-import { useParams } from 'react-router-dom';
 
 
 export const elements = {
@@ -29,7 +28,7 @@ export const elements = {
 
 function App() {
   
-  const {id} = useParams;
+
 
   return (
     <div className="App">
