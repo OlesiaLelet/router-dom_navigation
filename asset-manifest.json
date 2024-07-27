@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.1c58f64e.css",
-    "main.js": "/static/js/main.d049d05b.js",
-    "static/media/back.png": "/static/media/back.fd42e6c46e4dda596265.png",
-    "static/media/p3.jpg": "/static/media/p3.3fbbaabbbd2207b4aed3.jpg",
-    "static/media/p6.jpg": "/static/media/p6.9116092d47695bd6fd1c.jpg",
-    "static/media/p7.jpg": "/static/media/p7.9db69db39192b5f698f4.jpg",
-    "static/media/p8.jpg": "/static/media/p8.0f760488e428adad865b.jpg",
-    "static/media/p4.jpg": "/static/media/p4.c438333482d1de43492e.jpg",
-    "static/media/p1.jpg": "/static/media/p1.9d17ed30b81451b4786a.jpg",
-    "static/media/p5.jpg": "/static/media/p5.96976111027994b206a9.jpg",
-    "static/media/p2.jpg": "/static/media/p2.ce86ea87b186882a1e1c.jpg",
-    "index.html": "/index.html",
-    "main.1c58f64e.css.map": "/static/css/main.1c58f64e.css.map",
-    "main.d049d05b.js.map": "/static/js/main.d049d05b.js.map"
+    "main.css": "/router-dom_navigation/static/css/main.6424ccba.css",
+    "main.js": "/router-dom_navigation/static/js/main.f54416db.js",
+    "static/media/back.png": "/router-dom_navigation/static/media/back.fd42e6c46e4dda596265.png",
+    "static/media/p3.jpg": "/router-dom_navigation/static/media/p3.3fbbaabbbd2207b4aed3.jpg",
+    "static/media/p6.jpg": "/router-dom_navigation/static/media/p6.9116092d47695bd6fd1c.jpg",
+    "static/media/p7.jpg": "/router-dom_navigation/static/media/p7.9db69db39192b5f698f4.jpg",
+    "static/media/p8.jpg": "/router-dom_navigation/static/media/p8.0f760488e428adad865b.jpg",
+    "static/media/p4.jpg": "/router-dom_navigation/static/media/p4.c438333482d1de43492e.jpg",
+    "static/media/p1.jpg": "/router-dom_navigation/static/media/p1.9d17ed30b81451b4786a.jpg",
+    "static/media/p5.jpg": "/router-dom_navigation/static/media/p5.96976111027994b206a9.jpg",
+    "static/media/p2.jpg": "/router-dom_navigation/static/media/p2.ce86ea87b186882a1e1c.jpg",
+    "index.html": "/router-dom_navigation/index.html",
+    "main.6424ccba.css.map": "/router-dom_navigation/static/css/main.6424ccba.css.map",
+    "main.f54416db.js.map": "/router-dom_navigation/static/js/main.f54416db.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c58f64e.css",
-    "static/js/main.d049d05b.js"
+    "static/css/main.6424ccba.css",
+    "static/js/main.f54416db.js"
   ]
 }
